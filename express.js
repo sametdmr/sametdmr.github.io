@@ -59,4 +59,4 @@ app.get('/update', (req, res) => {
 
 
 
-const server = app.listen(8000, () => {console.log('Sunucu Çalışıyor...');});
+const server = app.listen(80, () => {console.log('Sunucu Çalışıyor...');});
