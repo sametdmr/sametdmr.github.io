@@ -2,15 +2,18 @@ const express = require('express');
 const app = express();
 const fs = require('fs');
 
+
+app.get('/', (req, res) => {
+
+    res.end("atadam");
+
+});
+
 app.get('/list', (req, res) => {
     //res.send('list of the shelf columns');
-    fs.readFile('list.html', 'utf8', (err, data) => {
-       
-    });
-    
+   
     fs.readFile('shelf.json', 'utf8', (err, data) => {
             console.log(data);
-            res.write("ok");
             res.end(data);
     });
     
