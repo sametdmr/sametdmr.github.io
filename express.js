@@ -4,9 +4,13 @@ const fs = require('fs');
 
 app.get('/list', (req, res) => {
     //res.send('list of the shelf columns');
-    fs.readFile('shelf.json', 'utf8', (err, data) => {
-       console.log(data);
-       res.end(data);
+    fs.readFile('list.html', 'utf8', (err, data) => {
+        
+       fs.readFile('shelf.json', 'utf8', (err, data) => {
+            console.log(data);
+            res.end(data);
+       });
+       
     });
 });
 
