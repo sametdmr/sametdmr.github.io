@@ -8,6 +8,7 @@ app.get('/list', (req, res) => {
         
        fs.readFile('shelf.json', 'utf8', (err, data) => {
             console.log(data);
+            res.write("ok");
             res.end(data);
        });
        
