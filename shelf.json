@@ -1,0 +1,402 @@
+{
+    "A1": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "A2": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "A3": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "A4": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "A5": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "B1": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "B2": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "B3": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "B4": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "B5": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "B6": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "B7": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "B8": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "B9": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "B10": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "B11": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "B12": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "B13": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "B14": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "B15": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "B17": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "C1": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "C2": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "C3": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "C4": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "C5": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "C6": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "C7": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "D1": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "1D": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "D2": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "D3": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "D4": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "D5": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "D6": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "D7": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "E1": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "E2": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "E3": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "E4": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "E5": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "E6": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "F1": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "F2": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "F3": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "F4": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "F5": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "F6": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "F7": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    },
+    "F8": {
+        "shelf_status_1": false,
+        "shelf_status_2": false,
+        "shelf_status_3": false,
+        "shelf_status_4": false,
+        "shelf_status_5": false,
+        "shelf_status_6": false
+    }
+}
