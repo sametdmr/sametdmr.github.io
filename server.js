@@ -1,6 +1,6 @@
 var express = require('express');
 var app = express();
-var PORT = process.env.PORT || 443;
+var PORT = process.env.PORT;
 
 app.get('/', (res,req) => {
     res.end("at adam");
