@@ -1,11 +1,11 @@
-var express = require('express');
-var app = express();
-var PORT = process.env.PORT;
+const express = require('express');
+const app = express();
+const PORT = process.env.PORT;
 
 app.get('/', (res,req) => {
     res.end("at adam");
 });
 
-app.listen(PORT, () => {
+const server = app.listen(PORT, () => {
     console.log("server $(PORT) portunda çalışıyor");
 });
