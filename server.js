@@ -4,8 +4,8 @@ var PORT = process.env.PORT;
 
 app.get('/', (res,req) => {
     res.end("at adam");
-})
+});
 
 app.listen(PORT, () => {
     console.log("server $(PORT) portunda çalışıyor");
-})
+});
